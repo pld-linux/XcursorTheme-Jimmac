@@ -1,6 +1,6 @@
 %define		_name Jimmac
 Summary:	A cursor theme by Jimmac (GNOME's main artist)
-Summary(pl.UTF-8):   Motyw kursorów autorstwa Jimmaca (główny grafik GNOME)
+Summary(pl.UTF-8):	Motyw kursorów autorstwa Jimmaca (główny grafik GNOME)
 Name:		XcursorTheme-%{_name}
 Version:	1.0
 Release:	1
