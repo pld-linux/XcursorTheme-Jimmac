@@ -1,6 +1,6 @@
 %define		_name Jimmac
 Summary:	A cursor theme by Jimmac (GNOME's main artist)
-Summary(pl):	Motyw kursorÛw autorstwa Jimmaca (g≥Ûwny grafik GNOME)
+Summary(pl.UTF-8):   Motyw kursor√≥w autorstwa Jimmaca (g≈Ç√≥wny grafik GNOME)
 Name:		XcursorTheme-%{_name}
 Version:	1.0
 Release:	1
@@ -17,8 +17,8 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 %description
 A professional, white cursor theme with thin black outlines.
 
-%description -l pl
-Profesjonalny, bia≥y motyw kursorÛw z cienkimi, czarnymi brzegami.
+%description -l pl.UTF-8
+Profesjonalny, bia≈Çy motyw kursor√≥w z cienkimi, czarnymi brzegami.
 
 %prep
 %setup -q -n %{_name}
